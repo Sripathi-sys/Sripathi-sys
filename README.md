@@ -1,16 +1,14 @@
-## Hi there 👋
+  <h1 align="center">Hi 👋, I'm Sripathi</h1>
 
-<!--
-**Sripathi-sys/Sripathi-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peradheepy&label=Profile%20views&color=0e75b6&style=flat" alt="peradheepy" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Embedded Tech's**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **enlighten teams**
+
+- 💬 Ask me about **Tech facts**
+
+- 📫 How to reach me **msripathi243@gmail.com**
+
+  
+
