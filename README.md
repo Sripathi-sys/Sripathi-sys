@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Sripathi</h1>
 
 
-- 🌱 I’m currently learning **Adavced Java**
+- 🌱 I’m currently learning **Advanced Java**
 
 - 👯 I’m looking to collaborate on **enlighten teams**
 
